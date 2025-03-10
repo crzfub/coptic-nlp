@@ -1,3 +1,5 @@
+bin/foma/
+venv/
 .nix-venv
 build_foma_flake.nix
 *.pyc
