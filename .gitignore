@@ -1,3 +1,5 @@
+.nix-venv
+build_foma_flake.nix
 *.pyc
 __pycache__/
 *.swp
