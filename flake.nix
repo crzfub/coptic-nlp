@@ -50,7 +50,6 @@
         })
         .env;
     in {
-      # usualy "bash" ich habs mal geändert - schauen wir mal 
       devShell = envWithScript "bash";
     });
 }
